@@ -1,0 +1,8 @@
+{
+  "name": "Remix CINEMAX - Premium Movie Discovery \u0026 Streaming Guide",
+  "description": "Discover trending movies, watch official trailers, explore cast details, filter by genres, and curate your personal cinematic watchlist with real TMDB data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
